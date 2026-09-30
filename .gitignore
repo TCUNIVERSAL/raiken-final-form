@@ -15,7 +15,6 @@ lerna-debug.log*
 server/uploads/
 .claude/
 docs/
-.vercel/
 .mcp.json
 LiveSign-Status-Update.md
 tests/postman/
